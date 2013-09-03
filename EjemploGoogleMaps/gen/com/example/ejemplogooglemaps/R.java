@@ -180,6 +180,7 @@ containing a value of this type.
         public static final int common_signin_btn_text_pressed_dark=0x7f020016;
         public static final int common_signin_btn_text_pressed_light=0x7f020017;
         public static final int ic_launcher=0x7f020018;
+        public static final int icon=0x7f020019;
     }
     public static final class id {
         public static final int action_settings=0x7f050006;
@@ -197,6 +198,16 @@ containing a value of this type.
         public static final int main=0x7f090000;
     }
     public static final class string {
+        public static final int AudFundad=0x7f06001c;
+        public static final int Bibl=0x7f06001a;
+        public static final int BiblLEV=0x7f060019;
+        public static final int BloqueInge=0x7f06001b;
+        public static final int Fund=0x7f060020;
+        public static final int Ing=0x7f06001f;
+        public static final int Rect=0x7f06001e;
+        public static final int RectoBloque=0x7f06001d;
+        public static final int UEaf=0x7f060018;
+        public static final int UEafAbi=0x7f060017;
         public static final int action_settings=0x7f060016;
         public static final int app_name=0x7f060015;
         /**   Title for notification shown when GooglePlayServices needs to be
@@ -277,7 +288,7 @@ containing a value of this type.
         /**  Long form sign-in button text [CHAR LIMIT=30] 
          */
         public static final int common_signin_button_text_long=0x7f06000e;
-        public static final int hello_world=0x7f060017;
+        public static final int hello_world=0x7f060021;
     }
     public static final class style {
         /** 
