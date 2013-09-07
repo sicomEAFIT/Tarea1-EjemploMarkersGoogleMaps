@@ -24,6 +24,9 @@ import com.example.ejemplogooglemaps.R;
 //import android.app.Activity;
 //import android.view.View;
 
+/**
+*Clase principal.
+*/
 public class MainActivity extends FragmentActivity implements OnMapClickListener, 
 																		OnMarkerClickListener { 
 	
